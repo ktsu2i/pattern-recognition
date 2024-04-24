@@ -1,5 +1,5 @@
 # Pattern recognition
-This is a final project for CIS 3203: Introduction to Artificial Intelligence.
+This is a final project for CIS 3203: Introduction to Artificial Intelligence. We created a netural network for pattern recognition of Hiragana characters using backpropagation algorithms with numpy (and without numpy but we used much smaller sample input data).
 
 ## Members
 - Kaito Tsutsui
